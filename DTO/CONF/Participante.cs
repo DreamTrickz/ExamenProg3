@@ -1,44 +1,46 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TallerFinal.DTO.CONF;
-
-public partial class Participante
+namespace TallerFinal.DTO.CONF
 {
-    public int IdParticipante { get; set; }
 
-    public string Nombre { get; set; } = null!;
+    public partial class Participante
+    {
+        public int IdParticipante { get; set; }
 
-    public string Apellido { get; set; } = null!;
+        public string Nombre { get; set; } = null!;
 
-    public string? Compania { get; set; }
+        public string Apellido { get; set; } = null!;
 
-    public string? Telefono { get; set; }
+        public string? Compania { get; set; }
 
-    public string Email { get; set; } = null!;
+        public string? Telefono { get; set; }
 
-    public string? Domicilio { get; set; }
+        public string Email { get; set; } = null!;
 
-    public string? CallesTransversales { get; set; }
+        public string? Domicilio { get; set; }
 
-    public string? Ciudad { get; set; }
+        public string? CallesTransversales { get; set; }
 
-    public string? Region { get; set; }
+        public string? Ciudad { get; set; }
 
-    public string? CodigoPostal { get; set; }
+        public string? Region { get; set; }
 
-    public string? Pais { get; set; }
+        public string? CodigoPostal { get; set; }
 
-    public DateTime FechaCreacion { get; set; }
+        public string? Pais { get; set; }
 
-    public string? UsuarioCrea { get; set; } = string.Empty;
+        public DateTime FechaCreacion { get; set; }
 
-    // Campos opcionales (nullable)
-    public DateTime? FechaModificacion { get; set; }  // Fecha puede ser nula
+        public string? UsuarioCrea { get; set; } = string.Empty;
 
-    public string? UsuarioModifica { get; set; }  // Usuario puede ser nulo
+        // Campos opcionales (nullable)
+        public DateTime? FechaModificacion { get; set; }  // Fecha puede ser nula
 
-    public bool Estado { get; set; } = false;
+        public string? UsuarioModifica { get; set; }  // Usuario puede ser nulo
 
-    public virtual ICollection<Participacion> Participacions { get; set; } = new List<Participacion>();
+        public bool Estado { get; set; } = false;
+
+        public virtual ICollection<Participacion> Participacions { get; set; } = new List<Participacion>();
+    }
 }

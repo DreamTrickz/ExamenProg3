@@ -102,7 +102,7 @@
             buttonFiltrar.TabIndex = 8;
             buttonFiltrar.Text = "Buscar";
             buttonFiltrar.UseVisualStyleBackColor = true;
-            buttonFiltrar.Click += ButtonFiltrar_Click;
+            buttonFiltrar.Click += buttonFiltrar_Click;
             // 
             // textBoxFiltro
             // 
@@ -241,7 +241,6 @@
             textBox10.Name = "textBox10";
             textBox10.Size = new Size(449, 27);
             textBox10.TabIndex = 29;
-            textBox10.TextChanged += textBox10_TextChanged;
             // 
             // label12
             // 
@@ -442,7 +441,7 @@
             Controls.Add(groupBox1);
             Name = "FormParticipante";
             Text = "Registro de participantes";
-            Load += FormParticipante_Load;
+            Load += FormParticipantes_Load;
             groupBox3.ResumeLayout(false);
             groupBox3.PerformLayout();
             groupBox2.ResumeLayout(false);

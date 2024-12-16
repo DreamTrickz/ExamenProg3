@@ -30,7 +30,7 @@ namespace TallerFinal.DAL.CONF
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<Participante>().ToTable("conf_participante");
+            modelBuilder.Entity<Participante>().ToTable("Participantes");
 
             modelBuilder.Entity<Participante>().HasKey(p => p.IdParticipante);
 

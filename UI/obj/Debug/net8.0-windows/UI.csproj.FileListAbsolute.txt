@@ -304,3 +304,4 @@ C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller 
 C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\UI\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
 C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\UI\obj\Debug\net8.0-windows\TallerFinal.UI.CONF.FormConferencia.resources
 C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\UI\obj\Debug\net8.0-windows\TallerFinal.UI.CONF.FormParticipante.resources
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\UI\obj\Debug\net8.0-windows\TallerFinal.UI.CONF.FormParticipacion.resources

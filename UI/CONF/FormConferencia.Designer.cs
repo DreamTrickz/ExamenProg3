@@ -85,7 +85,7 @@
             buttonFiltrar.TabIndex = 8;
             buttonFiltrar.Text = "Buscar";
             buttonFiltrar.UseVisualStyleBackColor = true;
-            buttonFiltrar.Click += ButtonFiltrar_Click;
+            buttonFiltrar.Click += buttonFiltrar_Click;
             // 
             // textBoxFiltro
             // 
@@ -277,16 +277,6 @@
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
             ResumeLayout(false);
-        }
-
-        private void ButtonFiltrar_Click(object sender, EventArgs e)
-        {
-            throw new NotImplementedException();
-        }
-
-        private void BtnAgregar_Click(object sender, EventArgs e)
-        {
-            throw new NotImplementedException();
         }
 
         #endregion

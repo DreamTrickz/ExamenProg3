@@ -4,6 +4,9 @@
     <Compile Update="CONF\FormConferencia.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="CONF\FormParticipacion.cs">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Update="CONF\FormParticipante.cs">
       <SubType>Form</SubType>
     </Compile>

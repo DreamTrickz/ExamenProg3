@@ -31,7 +31,7 @@ namespace TallerFinal.DAL.CONF
                     UsuarioCrea = p.UsuarioCrea,
                     FechaModificacion = p.FechaModificacion,
                     UsuarioModifica = p.UsuarioModifica,
-                    Estado = p.Estado
+                    Alojamiento = p.Alojamiento,
                 })
                 .ToList();
         }

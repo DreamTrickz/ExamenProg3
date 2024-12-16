@@ -85,7 +85,7 @@ namespace TallerFinal.UI.CONF
             }
         }
 
-        private void btnAgregar_Click(object sender, EventArgs e)
+        private void BtnAgregar_Click(object sender, EventArgs e)
         {
             if (string.IsNullOrEmpty(textBoxDescripcion.Text) || string.IsNullOrEmpty(textBox1.Text) || string.IsNullOrEmpty(textBox2.Text))
             {
@@ -156,6 +156,28 @@ namespace TallerFinal.UI.CONF
         {
             this.Close();
         }
+        private void buttonFiltrar_Click(object sender, EventArgs e)
+        {
+            var filtro = textBoxFiltro.Text;
+            var conferenciasFiltradas = _conferenciasBL.ObtenerConferenciasConFiltro(filtro);
+
+            dataGridViewConferencias.DataSource = conferenciasFiltradas.Select(c => new
+            {
+                c.IdConferencia,
+                c.Titulo,
+                c.Fecha,
+                c.Lugar,
+                c.FechaCreacion,
+                c.UsuarioCrea,
+                c.FechaModificacion,
+                c.UsuarioModifica,
+                Estado = c.Estado ? "Activo" : "Inactivo" // Mostrar estado como texto
+            }).ToList();
+
+            FormateaDataGridView();
+        }
+
+
 
         private void buttonLimpiar_Click(object sender, EventArgs e)
         {

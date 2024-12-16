@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using TallerFinal.UI.CONF;
 
@@ -13,28 +6,72 @@ namespace TallerFinal.UI.INI
 {
     public partial class FormPrincipal : Form
     {
+        private Form? childForm; // Variable para gestionar formularios hijos
+
         public FormPrincipal()
         {
             InitializeComponent();
         }
 
-        private void btnConferencias_Click(object sender, EventArgs e)
+        private void FormPrincipal_Load(object sender, EventArgs e)
         {
-            // Abre el formulario de gestión de Conferencias
-            var formConferencias = new FormConferencia();
-            formConferencias.ShowDialog();
+            // Opcional: Código para inicializar datos o configurar elementos al cargar el formulario
         }
 
-        private void btnParticipante_Click(object sender, EventArgs e)
+        // Método para abrir el formulario de Participantes
+        private void participantesToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            // Abre el formulario de gestión de Participaciones
-            var formParticipaciones = new FormParticipante(); 
-            formParticipante.ShowDialog();
+            AbrirFormulario(new FormParticipante(), "Gestión de Participantes");
         }
 
-        private void btnSalir_Click(object sender, EventArgs e)
+        private void toolStripButtonParticipantes_Click(object sender, EventArgs e)
         {
-            // Cierra la aplicación
+            participantesToolStripMenuItem_Click(sender, e);
+        }
+
+        // Método para abrir el formulario de Conferencias
+        private void conferenciasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AbrirFormulario(new FormConferencia(), "Gestión de Conferencias");
+        }
+
+        private void toolStripButtonConferencias_Click(object sender, EventArgs e)
+        {
+            conferenciasToolStripMenuItem_Click(sender, e);
+        }
+
+        // Método para abrir el formulario de Participaciones
+        private void participacionesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AbrirFormulario(new FormParticipacion(), "Gestión de Participaciones");
+        }
+
+        private void toolStripButtonParticipaciones_Click(object sender, EventArgs e)
+        {
+            participacionesToolStripMenuItem_Click(sender, e);
+        }
+
+        // Método genérico para abrir formularios hijos
+        private void AbrirFormulario(Form form, string titulo)
+        {
+            if (childForm == null || childForm.IsDisposed)
+            {
+                childForm = form;
+                childForm.MdiParent = this; // Asignar como formulario hijo
+                childForm.Text = titulo;
+                childForm.Show();
+            }
+            else
+            {
+                // Si el formulario ya está abierto, tráelo al frente
+                childForm.BringToFront();
+                childForm.WindowState = FormWindowState.Normal;
+            }
+        }
+
+        // Método para salir del programa
+        private void salirToolStripMenuItem_Click(object sender, EventArgs e)
+        {
             Application.Exit();
         }
     }

@@ -25,7 +25,7 @@ namespace TallerFinal.DAL.CONF
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             // Configuración de la tabla y las relaciones
-            modelBuilder.Entity<Participacion>().ToTable("participaciones");
+            modelBuilder.Entity<Participacion>().ToTable("Participacion");
 
             // Definición de las claves primarias
             modelBuilder.Entity<Participacion>().HasKey(p => p.IdParticipacion);
@@ -48,7 +48,7 @@ namespace TallerFinal.DAL.CONF
                 .HasColumnName("usuario_modifica");
 
             modelBuilder.Entity<Participacion>()
-                .Property(p => p.Estado)
+                .Property(p => p.Alojamiento)
                 .IsRequired();
 
             // Configurar las relaciones de claves foráneas

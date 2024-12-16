@@ -152,6 +152,35 @@ namespace TallerFinal.UI.CONF
             MessageBox.Show("Participante eliminado correctamente.");
             LimpiarFormulario();
         }
+        private void buttonFiltrar_Click(object sender, EventArgs e)
+        {
+            var filtro = textBoxFiltro.Text;
+            var participantesFiltrados = _participantesBL.ObtenerParticipantesConFiltro(filtro);
+
+            dataGridViewParticipantes.DataSource = participantesFiltrados.Select(p => new
+            {
+                p.IdParticipante,
+                p.Nombre,
+                p.Apellido,
+                p.Compania,
+                p.Telefono,
+                p.Email,
+                p.Domicilio,
+                p.CallesTransversales,
+                p.Ciudad,
+                p.Region,
+                p.CodigoPostal,
+                p.Pais,
+                p.FechaCreacion,
+                p.UsuarioCrea,
+                p.FechaModificacion,
+                p.UsuarioModifica,
+                Estado = p.Estado ? "Activo" : "Inactivo" // Cambiar visualización del estado
+            }).ToList();
+
+            FormatearDataGridView();
+        }
+
 
         private void buttonLimpiar_Click(object sender, EventArgs e)
         {
