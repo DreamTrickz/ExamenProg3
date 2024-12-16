@@ -1,0 +1,29 @@
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DTO\bin\Debug\net8.0\TallerFinal.DTO.deps.json
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DTO\bin\Debug\net8.0\TallerFinal.DTO.runtimeconfig.json
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DTO\bin\Debug\net8.0\TallerFinal.DTO.dll
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DTO\bin\Debug\net8.0\TallerFinal.DTO.pdb
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DTO\obj\Debug\net8.0\TallerFinal.DTO.dll
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DTO\obj\Debug\net8.0\refint\TallerFinal.DTO.dll
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DTO\obj\Debug\net8.0\TallerFinal.DTO.pdb
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DTO\obj\Debug\net8.0\DTO.genruntimeconfig.cache
+C:\Users\USUARIO\OneDrive\Desktop\ECOTEC\Cuarto Semestre\Programación II\TallerFinal\DTO\obj\Debug\net8.0\ref\TallerFinal.DTO.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\DTO\bin\Debug\net8.0\TallerFinal.DTO.deps.json
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\DTO\bin\Debug\net8.0\TallerFinal.DTO.runtimeconfig.json
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\DTO\bin\Debug\net8.0\TallerFinal.DTO.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\DTO\bin\Debug\net8.0\TallerFinal.DTO.pdb
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\DTO\obj\Debug\net8.0\DTO.csproj.AssemblyReference.cache
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\DTO\obj\Debug\net8.0\DTO.sourcelink.json
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\DTO\obj\Debug\net8.0\TallerFinal.DTO.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\DTO\obj\Debug\net8.0\refint\TallerFinal.DTO.dll
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\DTO\obj\Debug\net8.0\TallerFinal.DTO.pdb
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\DTO\obj\Debug\net8.0\DTO.genruntimeconfig.cache
+C:\Users\Dreamtrickz\Desktop\Universidad\SEMESTRE IV\ESTRUCTURA DE DATOS\Taller final\TallerFinal\DTO\obj\Debug\net8.0\ref\TallerFinal.DTO.dll

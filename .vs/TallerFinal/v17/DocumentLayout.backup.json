@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\ui\\conf\\formparticipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|solutionrelative:ui\\conf\\formparticipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\ui\\conf\\formparticipante.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|solutionrelative:ui\\conf\\formparticipante.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\ui\\conf\\formconferencia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|solutionrelative:ui\\conf\\formconferencia.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D04B43-B006-4E8D-A2B5-8FF16021FD56}|DAL\\DAL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\dal\\conf\\conferenciadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D04B43-B006-4E8D-A2B5-8FF16021FD56}|DAL\\DAL.csproj|solutionrelative:dal\\conf\\conferenciadbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271951E7-71FF-44DD-B92C-FB1947761579}|BL\\BL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\bl\\conf\\conferenciabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271951E7-71FF-44DD-B92C-FB1947761579}|BL\\BL.csproj|solutionrelative:bl\\conf\\conferenciabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\ui\\conf\\formconferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|solutionrelative:ui\\conf\\formconferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\ui\\conf\\formparticipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|solutionrelative:ui\\conf\\formparticipante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271951E7-71FF-44DD-B92C-FB1947761579}|BL\\BL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\bl\\conf\\participantebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271951E7-71FF-44DD-B92C-FB1947761579}|BL\\BL.csproj|solutionrelative:bl\\conf\\participantebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213CBEC3-F7B9-4883-92B7-1828477336A8}|DTO\\DTO.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\dto\\conf\\participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CBEC3-F7B9-4883-92B7-1828477336A8}|DTO\\DTO.csproj|solutionrelative:dto\\conf\\participante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\ui\\ini\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|solutionrelative:ui\\ini\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\ui\\conf\\formconferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|solutionrelative:ui\\conf\\formconferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213CBEC3-F7B9-4883-92B7-1828477336A8}|DTO\\DTO.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\dto\\conf\\conferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CBEC3-F7B9-4883-92B7-1828477336A8}|DTO\\DTO.csproj|solutionrelative:dto\\conf\\conferencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{213CBEC3-F7B9-4883-92B7-1828477336A8}|DTO\\DTO.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\dto\\conf\\participacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{213CBEC3-F7B9-4883-92B7-1828477336A8}|DTO\\DTO.csproj|solutionrelative:dto\\conf\\participacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|solutionrelative:ui\\ui.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D04B43-B006-4E8D-A2B5-8FF16021FD56}|DAL\\DAL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\dal\\conf\\participaciondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D04B43-B006-4E8D-A2B5-8FF16021FD56}|DAL\\DAL.csproj|solutionrelative:dal\\conf\\participaciondal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4D04B43-B006-4E8D-A2B5-8FF16021FD56}|DAL\\DAL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\dal\\conf\\participaciondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F4D04B43-B006-4E8D-A2B5-8FF16021FD56}|DAL\\DAL.csproj|solutionrelative:dal\\conf\\participaciondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{271951E7-71FF-44DD-B92C-FB1947761579}|BL\\BL.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\bl\\conf\\participacionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{271951E7-71FF-44DD-B92C-FB1947761579}|BL\\BL.csproj|solutionrelative:bl\\conf\\participacionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|c:\\users\\dreamtrickz\\desktop\\universidad\\semestre iv\\estructura de datos\\taller final\\tallerfinal\\ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0D710B85-D9B8-4D54-8332-35B15BB2E3BB}|UI\\UI.csproj|solutionrelative:ui\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormParticipante.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\CONF\\FormParticipante.cs",
+              "RelativeDocumentMoniker": "UI\\CONF\\FormParticipante.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\CONF\\FormParticipante.cs",
+              "RelativeToolTip": "UI\\CONF\\FormParticipante.cs",
+              "ViewState": "AgIAAKgAAAAAAAAAAAAUwLYAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T11:57:04.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormParticipante.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\CONF\\FormParticipante.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\CONF\\FormParticipante.Designer.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\CONF\\FormParticipante.Designer.cs",
+              "RelativeToolTip": "UI\\CONF\\FormParticipante.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOUBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:56:21.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormParticipante.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\CONF\\FormParticipante.cs",
+              "RelativeDocumentMoniker": "UI\\CONF\\FormParticipante.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\CONF\\FormParticipante.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\CONF\\FormParticipante.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T09:56:14.051Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormConferencia.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\CONF\\FormConferencia.Designer.cs",
+              "RelativeDocumentMoniker": "UI\\CONF\\FormConferencia.Designer.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\CONF\\FormConferencia.Designer.cs",
+              "RelativeToolTip": "UI\\CONF\\FormConferencia.Designer.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwCMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:55:38.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormConferencia.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\CONF\\FormConferencia.cs",
+              "RelativeDocumentMoniker": "UI\\CONF\\FormConferencia.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\CONF\\FormConferencia.cs",
+              "RelativeToolTip": "UI\\CONF\\FormConferencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:38:46.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConferenciaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\DAL\\CONF\\ConferenciaDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\CONF\\ConferenciaDbContext.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\DAL\\CONF\\ConferenciaDbContext.cs",
+              "RelativeToolTip": "DAL\\CONF\\ConferenciaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:48:49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ParticipanteBL.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\BL\\CONF\\ParticipanteBL.cs",
+              "RelativeDocumentMoniker": "BL\\CONF\\ParticipanteBL.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\BL\\CONF\\ParticipanteBL.cs",
+              "RelativeToolTip": "BL\\CONF\\ParticipanteBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:48:40.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConferenciaBL.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\BL\\CONF\\ConferenciaBL.cs",
+              "RelativeDocumentMoniker": "BL\\CONF\\ConferenciaBL.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\BL\\CONF\\ConferenciaBL.cs",
+              "RelativeToolTip": "BL\\CONF\\ConferenciaBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:27:50.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormConferencia.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\CONF\\FormConferencia.cs",
+              "RelativeDocumentMoniker": "UI\\CONF\\FormConferencia.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\CONF\\FormConferencia.cs [Dise\u00F1o]",
+              "RelativeToolTip": "UI\\CONF\\FormConferencia.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T19:09:59.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UI.csproj",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\UI.csproj",
+              "RelativeDocumentMoniker": "UI\\UI.csproj",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\UI.csproj",
+              "RelativeToolTip": "UI\\UI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-15T19:09:13.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\INI\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "UI\\INI\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\INI\\FormPrincipal.cs",
+              "RelativeToolTip": "UI\\INI\\FormPrincipal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T18:34:27.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ParticipacionDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\DAL\\CONF\\ParticipacionDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\CONF\\ParticipacionDAL.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\DAL\\CONF\\ParticipacionDAL.cs",
+              "RelativeToolTip": "DAL\\CONF\\ParticipacionDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:26:09.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Participante.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\DTO\\CONF\\Participante.cs",
+              "RelativeDocumentMoniker": "DTO\\CONF\\Participante.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\DTO\\CONF\\Participante.cs",
+              "RelativeToolTip": "DTO\\CONF\\Participante.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwAkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:45:10.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Conferencia.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\DTO\\CONF\\Conferencia.cs",
+              "RelativeDocumentMoniker": "DTO\\CONF\\Conferencia.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\DTO\\CONF\\Conferencia.cs",
+              "RelativeToolTip": "DTO\\CONF\\Conferencia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:45:07.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Participacion.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\DTO\\CONF\\Participacion.cs",
+              "RelativeDocumentMoniker": "DTO\\CONF\\Participacion.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\DTO\\CONF\\Participacion.cs",
+              "RelativeToolTip": "DTO\\CONF\\Participacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T15:45:09.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ParticipacionBL.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\BL\\CONF\\ParticipacionBL.cs",
+              "RelativeDocumentMoniker": "BL\\CONF\\ParticipacionBL.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\BL\\CONF\\ParticipacionBL.cs",
+              "RelativeToolTip": "BL\\CONF\\ParticipacionBL.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwDoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:09:44.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ParticipacionDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\DAL\\CONF\\ParticipacionDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\CONF\\ParticipacionDbContext.cs",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\DAL\\CONF\\ParticipacionDbContext.cs",
+              "RelativeToolTip": "DAL\\CONF\\ParticipacionDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T17:42:34.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\App.config",
+              "RelativeDocumentMoniker": "UI\\App.config",
+              "ToolTip": "C:\\Users\\Dreamtrickz\\Desktop\\Universidad\\SEMESTRE IV\\ESTRUCTURA DE DATOS\\Taller final\\TallerFinal\\UI\\App.config",
+              "RelativeToolTip": "UI\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-15T15:47:58.387Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
